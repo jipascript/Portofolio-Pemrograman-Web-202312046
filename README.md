@@ -3,8 +3,7 @@
 [![GitHub Repo Size](https://img.shields.io/github/repo-size/jipascript/Portofolio-Pemrograman-Web-202312046?color=blue&label=Repo%20Size)](https://github.com/jipascript/Portofolio-Pemrograman-Web-202312046)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](#-lisensi)
 
-Repositori ini merupakan kumpulan hasil praktik mata kuliah **Pemrograman Web** semester 4 pada Program Studi **Teknik Informatika – STITEK Bontang**.  
-Seluruh tugas dikembangkan secara terstruktur berdasarkan modul pembelajaran dan dikelola menggunakan sistem kontrol versi **Git** dan **GitHub**.
+Repositori ini merupakan kumpulan hasil praktik mata kuliah **Pemrograman Web** semester 4 pada Program Studi **Teknik Informatika – STITEK Bontang**. Seluruh tugas dikembangkan secara terstruktur berdasarkan modul pembelajaran dan dikelola menggunakan sistem kontrol versi **Git** dan **GitHub**.
 
 ---
 
