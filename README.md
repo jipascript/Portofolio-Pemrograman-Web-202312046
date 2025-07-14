@@ -1,6 +1,6 @@
-# 🧾 Portofolio Praktikum Pemrograman Web – (202312046)
+# 🗃️ Portofolio Pemrograman Web – 202312046
 
-[![GitHub Repo Size](https://img.shields.io/github/repo-size/jipascript/Portofolio-Pemrograman-Web-202312046?color=blue&label=Repo%20Size)](https://github.com/jipascript/Portofolio-Pemrograman-Web-202312046)
+[![GitHub Repo Size](https://img.shields.io/github/repo-size/jipascript/Portofolio-Pemrograman-Web-202312046?color=blue&label=Repo%20Size)](https://github.com/jipascript/Portofolio-Pemrograman-Web-202312046) 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](#-lisensi)
 
 Repositori ini merupakan kumpulan hasil praktik mata kuliah **Pemrograman Web** semester 4 pada Program Studi **Teknik Informatika – STITEK Bontang**. Seluruh tugas dikembangkan secara terstruktur berdasarkan modul pembelajaran dan dikelola menggunakan sistem kontrol versi **Git** dan **GitHub**.
@@ -103,17 +103,16 @@ _(Ulangi langkah serupa untuk Modul 5 dan 6.)_
 
 ## 📬 Kontak
 
-> **Nama** : Nazhifah  
+> **Nama** : Asma Nazhifah Luukman
 > **NIM** : 202312046  
 > **Program Studi** : Teknik Informatika  
-> **GitHub** : [@jipascript](https://github.com/jipascript)  
-> **Email** : — _(opsional)_
+> **GitHub** : [@jipascript](https://github.com/jipascript) 
 
 ---
 
 ## 🏁 Penutup
 
-Repositori ini merupakan bagian dari hasil pembelajaran praktikum **Pemrograman Web**.  
+Repositori ini merupakan bagian dari hasil praktikum **Pemrograman Web**.  
 Tidak hanya memuat kode sumber, tetapi juga menunjukkan alur kerja profesional seperti pemanfaatan **Git**, **branching**, dan dokumentasi proyek melalui **README** yang terstruktur.
 
 Semoga dokumentasi ini bermanfaat dan dapat menjadi referensi pengembangan web secara sistematis. 🙌
