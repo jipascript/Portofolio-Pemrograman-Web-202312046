@@ -121,5 +121,5 @@ Semoga dokumentasi ini bermanfaat dan dapat menjadi referensi pengembangan web s
 
 ## 📄 Lisensi
 
-Distribusi proyek ini menggunakan [MIT License](https://opensource.org/licenses/MIT).  
-Silakan gunakan, ubah, atau bagikan dengan tetap menyertakan atribusi.
+Repositori ini disusun sebagai bagian dari pemenuhan tugas akademik dalam mata kuliah Pemrograman Web di Sekolah Tinggi Teknologi Bontang (STITEK).
+© 2025 Asma Nazhifah Lukman.  All rights reserved.
