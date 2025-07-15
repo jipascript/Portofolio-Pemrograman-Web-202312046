@@ -103,7 +103,7 @@ _(Ulangi langkah serupa untuk Modul 5 dan 6.)_
 
 ## 📬 Kontak
 
-> **Nama** : Asma Nazhifah Luukman
+> **Nama** : Asma Nazhifah Lukman
 > **NIM** : 202312046  
 > **Program Studi** : Teknik Informatika  
 > **GitHub** : [@jipascript](https://github.com/jipascript) 
